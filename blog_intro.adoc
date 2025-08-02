@@ -1,0 +1,5 @@
+== Intro
+
+Hi, I'm Enid. A 21 year-old programmer and systems administrator from Germany. My pronouns are she/her.
+
+Check out my link:https://enidisepic.github.io/blog/posts/01-To_Do.html[To-Do-list of projects I want to tackle in the future]!
